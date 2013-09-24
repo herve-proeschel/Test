@@ -1,0 +1,15 @@
+commit dec66942ae836f5e5fe12d073b0bae13f473cef3
+Author: herve-proeschel <herve.proeschel@gmail.com>
+Date:   Tue Sep 24 16:47:22 2013 +0200
+
+    test commit
+
+diff --git a/README b/README
+index 2fcd0b1..2dd2b8d 100644
+--- a/README
++++ b/README
+@@ -1,2 +1,4 @@
+ hello
+ modified file on remote server
++test
++
