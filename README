@@ -2,3 +2,4 @@ hello
 modified file on remote server
 modified on local repo
 modified on local repo (while modified on server)
+modified on server (while modified on local repo)
